@@ -367,3 +367,11 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Ignore the C++ DLLs automatically copied into the C# UI project
+/ChessUI/libs/x64/
+/ChessUI/libs/x86/
+
+# General OS generated files
+.DS_Store
+Thumbs.db
