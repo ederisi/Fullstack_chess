@@ -1,4 +1,5 @@
 **Full-Stack Bitboard Chess Engine**
+
 A high-performance chess application featuring a custom native C++20 engine and a modern C# Windows Presentation Foundation (WPF) frontend. The project strictly decouples game logic from the user interface, utilizing P/Invoke to bridge the unmanaged backend with the managed .NET 4.7.2 frontend.
 
 **Architecture Overview**
